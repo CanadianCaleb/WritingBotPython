@@ -10,7 +10,7 @@ the points are based off of the frequency that a word is used after a certain wo
 is repetition, to prevent phrases like "of the of the of the of the of the"
 
 
-The program does not gramatical corrections whenever running.
+The program does not do gramatical corrections whenever running.
 
 
 
